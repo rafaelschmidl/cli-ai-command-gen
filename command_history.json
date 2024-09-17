@@ -1,0 +1,6 @@
+[
+    "`find . -type f -size +10000k`",
+    "`find . -type f -size +100000c | sort -n`",
+    "dir",
+    "`ls`"
+]
