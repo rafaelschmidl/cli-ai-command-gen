@@ -1,8 +1,0 @@
-# Python version
-python>=3.6
-
-# Built-in modules (for reference)
-argparse
-json
-os
-subprocess

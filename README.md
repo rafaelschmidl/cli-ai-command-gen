@@ -22,17 +22,6 @@ CLI AI Command Generator is a Python-based tool that uses AI to generate and sug
    cd cli_ai_command_gen
    ```
 
-2. (Optional) Create and activate a virtual environment:
-   ```
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   ```
-
-3. Install required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 ### Generating a Command
